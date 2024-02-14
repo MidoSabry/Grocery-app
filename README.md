@@ -1,7 +1,7 @@
 # Grocery
 
 A new Flutter project as e-commerce app.
-<h5>1- Backend with strapi </h5> <link href="[styles.css](https://github.com/MidoSabry/Grocery-backend)">
+<h5>1- Backend with strapi </h5> (https://github.com/MidoSabry/Grocery-backend)
 <h5>2- Getx statemanagement </h5>
 <h5>3- hive local storage </h5>
 
